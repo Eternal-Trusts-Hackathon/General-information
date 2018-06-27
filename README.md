@@ -33,4 +33,5 @@ Criteria for evaluating demos and presentations will be announced right after th
 
 ## Links to details: 
 https://goo.gl/forms/gLCrbaLF2EnhyWvh1
+
 https://www.meetup.com/Blockchain-Analytics-Meetup-St-Petersburg-BAM/events/251151818/
