@@ -31,7 +31,7 @@ Award pool for the 1st place:
 
 The official language of the demo day event is English. There is no limit on regional participation. Since we will arrange online video broadcasting, online demo presentation is also possible.
 
-Criteria for evaluating demos and presentations will be announced right after the opening of the offline event on July 14.
+Criteria for evaluating demos and presentations will be announced right after the opening of the offline event on August 25.
 
 ## Links to details: 
 https://eternaltrusts.io/hackathon
