@@ -39,3 +39,8 @@ https://eternaltrusts.io/hackathon
 https://goo.gl/forms/gLCrbaLF2EnhyWvh1
 
 https://www.meetup.com/Blockchain-Analytics-Meetup-St-Petersburg-BAM/events/251151818/
+
+https://t.me/ET_hackathon_public
+
+https://join.slack.com/t/et-public/shared_invite/enQtNDAxNDM5NzI1NDczLWYxMDBmZDI2ZTI2YmI0ZmE3YjY2YWRkOTFjM2Q3MGE2Y2Q0NjFiNTQ2OWIwYmE2NGJiM2ExNWFmN2ZmZGU3ODg
+
